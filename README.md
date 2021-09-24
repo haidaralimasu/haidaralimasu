@@ -13,7 +13,11 @@ I write blogs at [KodingHandle](https://blog.kodinghandle.com) about blockchain.
 
 #### Github Stats 📊
 
-[![Haidar's github stats](https://github-readme-stats.vercel.app/api?username=Haidar1528)](https://github.com/anuraghazra/github-readme-stats)
+![Haidar's github stats](https://github-readme-stats.vercel.app/api?username=Haidar1528)
+
+![Haidar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar1528)
+
+
 
 
 Feel free to reach out on the [Instagram](https://www.instagram.com/haidarali_masu).
