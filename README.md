@@ -19,4 +19,4 @@ I write blogs at [KodingHandle](https://blog.kodinghandle.com) about blockchain.
 
 
 
-Feel free to reach out on the [Instagram](https://www.instagram.com/haidarali_masu).
+Feel free to reach me out at [Instagram](https://www.instagram.com/haidarali_masu).
