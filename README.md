@@ -6,7 +6,7 @@
 [![Haidar Ali Instagram](https://img.shields.io/badge/Instagram-6441A4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/haidarali_masu)
 [![Haidarali StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14995461/haidarali-masu)
 
-Just an ordinary programmer and a blockchain enthusiast.
+Just an ordinary programmer and Blockchain developer too 😉. Mainly building on top of Ethereum and layer2 solutions. Fullstack blockchain development with hardhat, brownie and truffle with react and next.
 
 Founder of [BullCarter](https://www.bullcarter.in)
 
