@@ -8,9 +8,7 @@
 
 Just an ordinary programmer and Blockchain developer too 😉. Mainly building on top of Ethereum and layer2 solutions.
 
-Founder of [BullCarter](https://www.bullcarter.in)
-
-I write blogs at [KodingHandle](https://blog.kodinghandle.com) about blockchain.
+Writing blogs at [KodingHandle](https://blog.kodinghandle.com).
 
 #### Github Stats 📊
 
