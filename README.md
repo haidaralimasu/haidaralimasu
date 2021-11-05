@@ -13,8 +13,3 @@ Writing blogs at [KodingHandle](https://blog.kodinghandle.com).
 #### Github Stats 📊
 
 ![Haidar's github stats](https://github-readme-stats.vercel.app/api?username=Haidar1528&show_icons=true&layout=compact&hide_border=true&hide_border=true)![Haidar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar1528&hide_border=true&layout=compact)
-
-
-
-
-Feel free to reach me out at [Instagram](https://www.instagram.com/haidarali_masu).
