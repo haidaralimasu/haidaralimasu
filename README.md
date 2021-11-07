@@ -9,6 +9,7 @@
 Just an ordinary programmer and Blockchain developer too 😉. Mainly building on top of Ethereum and Layer2 solutions.
 
 Writing blogs at [KodingHandle](https://blog.kodinghandle.com) 📝.
+My portfolio [Haidarali](https://haidar.vercel.app)
 
 #### Github Stats 📊
 
