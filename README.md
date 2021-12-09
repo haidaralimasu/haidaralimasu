@@ -10,7 +10,7 @@ Just an ordinary programmer and Blockchain developer too 😉. Mainly building o
 
 Writing blogs at [KodingHandle](https://blog.kodinghandle.com) 📝.
 
-My portfolio [Haidarali](https://haidar.vercel.app)
+My portfolio [Haidarali](https://haidarali.vercel.app)
 
 #### Github Stats 📊
 
