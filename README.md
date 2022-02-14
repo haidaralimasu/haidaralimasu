@@ -14,6 +14,6 @@ My portfolio [Haidarali](https://haidarali.vercel.app)
 
 #### Github Stats 📊
 
-![Haidar's github stats](https://github-readme-stats.vercel.app/api?username=haidaralimasu&show_icons=true&layout=compact)
+![Haidar's github stats](https://github-readme-stats.vercel.app/api?username=haidaralimasu&show_icons=true)
 
 ![Haidar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haidaralimasu)
