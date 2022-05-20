@@ -9,7 +9,7 @@ Just an ordinary programmer and Blockchain developer too 😉. Mainly building o
 
 Writing blogs at [haidaralimasu.com](https://haidaralimasu.com/blogs) 📝.
 
-My portfolio [Haidarali]((https://haidaralimasu.com)
+My portfolio [Haidarali](https://haidaralimasu.com)
 
 #### Github Stats 📊
 
