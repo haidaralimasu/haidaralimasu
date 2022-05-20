@@ -7,7 +7,7 @@
 
 Just an ordinary programmer and Blockchain developer too 😉. Mainly building on top of Ethereum and Layer2 solutions.
 
-Writing blogs at [haidaralimasu.com](https://haidaralimasu.com/blogs) 📝.
+Writing blogs at [haidaralimasu.com](https://haidaralimasu.com/blog) 📝.
 
 My portfolio [Haidarali](https://haidaralimasu.com)
 
